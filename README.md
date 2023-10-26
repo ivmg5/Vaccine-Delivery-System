@@ -121,5 +121,7 @@ El código fuente proporcionado contiene la definición y la implementación de 
 
 El programa en su ejecución principal solicita la cantidad de pacientes a registrar, recopila su información y finalmente imprime la etiqueta de venta de la vacuna para el primer paciente registrado.
 
+<img width="867" alt="Screenshot 2023-10-25 at 8 51 07 p m" src="https://github.com/ivmg5/Vaccine-Delivery-System/assets/102205596/c5623173-f649-4d33-a2be-4197f4b37738">
+
+
 ---
-<img width="867" alt="Screenshot 2023-10-25 at 8 51 07 p m" src="https://github.com/ivmg5/Vaccine-Delivery-System/assets/102205596/fe145b2f-114b-4fd2-9682-e15fca61f129">
